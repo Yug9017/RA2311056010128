@@ -3,8 +3,8 @@
 This project implements a priority inbox for campus notifications.
 
 ## Features
-- Fetch notifications from API
-- Rank based on type and recency
+- Registers new users
+- GIves "User already exists message" if try for the same registration happens multiple times
 - Display top 10 notifications
 
 ## How to Run
